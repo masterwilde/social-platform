@@ -1,5 +1,6 @@
 #!/bin/bash
-
+chmod +x deepseek_bash_20260404_57c799.sh
+./deepseek_bash_20260404_57c799.sh
 # Social Platform Complete Setup Script
 # Run this script to generate the entire project structure
 
