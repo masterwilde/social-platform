@@ -1,13 +1,9 @@
-#!/bin/bash
-chmod +x deepseek_bash_20260404_57c799.sh
-./deepseek_bash_20260404_57c799.sh
-cd social-platform/frontend
-npm install
-npm run build
 frontend/build/index.html ✅
 frontend/build/
 index.html
 static/
+npm install
+npm run build
 # Social Platform Complete Setup Script
 # Run this script to generate the entire project structure
 
