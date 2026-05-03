@@ -8,7 +8,7 @@ echo "🚀 Creating Social Platform Project..."
 # Create root directory
 mkdir -p social-platform
 cd social-platform
-
+<h1>It works</h1>
 # Create backend directory structure
 mkdir -p backend/{models,routes,middleware,controllers,uploads}
 mkdir -p frontend/src/{components,pages,context,utils,hooks}
